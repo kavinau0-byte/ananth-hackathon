@@ -1,0 +1,6 @@
+{
+  "aletheia": null,
+  "eidos": null,
+  "risk": "BORDERLINE",
+  "reason": "Voice check service encountered an error or unreadable audio and failed closed. A score is evidence, not proof. Next step: ask the requester to re-record, or call back on a number you already know."
+}

@@ -1,0 +1,11 @@
+{
+  "aletheia": {
+    "verdict": "real",
+    "score": 0.48,
+    "duration_seconds": 5.2,
+    "operation_id": "op_sample_borderline_001"
+  },
+  "eidos": null,
+  "risk": "BORDERLINE",
+  "reason": "Voice check did not confirm synthetic speech, but the score is close to the review cutoff. A score is evidence, not proof. Next step: ask the requester to re-record in a quiet spot, or call back on a number you already know."
+}

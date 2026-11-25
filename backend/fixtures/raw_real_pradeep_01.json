@@ -1,0 +1,57 @@
+{
+  "request_id": "req_6c2bbaa39bfba468bf94d53a",
+  "operation_id": "op_a826a394fc4d4318a6163917d57a332b",
+  "object": "deepfake.detection",
+  "result": {
+    "label": "genuine",
+    "is_synthetic": false,
+    "score": 0.019579,
+    "threshold": 0.62,
+    "score_semantics": "Higher means more likely AI-generated. Decide with the verdict, not the score alone.",
+    "duration_seconds": 11.834,
+    "scored_seconds": 11.834,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "score": 0.015752,
+        "verdict": "real"
+      },
+      {
+        "start": 2.0,
+        "end": 6.0,
+        "score": 0.014193,
+        "verdict": "real"
+      },
+      {
+        "start": 4.0,
+        "end": 8.0,
+        "score": 0.040721,
+        "verdict": "real"
+      },
+      {
+        "start": 6.0,
+        "end": 10.0,
+        "score": 0.018272,
+        "verdict": "real"
+      },
+      {
+        "start": 7.833,
+        "end": 11.834,
+        "score": 0.008954,
+        "verdict": "real"
+      }
+    ],
+    "verdict": "real"
+  },
+  "model": {
+    "name": "aletheia",
+    "version": "2026.10"
+  },
+  "credits": {
+    "charged": 24,
+    "balance": 4976
+  },
+  "latency_ms": 324.4,
+  "idempotent_replay": false
+}

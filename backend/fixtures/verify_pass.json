@@ -1,0 +1,11 @@
+{
+  "aletheia": {
+    "verdict": "real",
+    "score": 0.08,
+    "duration_seconds": 6.4,
+    "operation_id": "op_sample_pass_001"
+  },
+  "eidos": null,
+  "risk": "PASS",
+  "reason": "Voice check found no synthetic speech indicators. Remember that this score is evidence, not proof. Next step: continue with your normal break-glass approval checks, or call back on a number you already know if anything feels off."
+}

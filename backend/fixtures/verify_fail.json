@@ -1,0 +1,11 @@
+{
+  "aletheia": {
+    "verdict": "fake",
+    "score": 0.94,
+    "duration_seconds": 5.8,
+    "operation_id": "op_sample_fail_001"
+  },
+  "eidos": null,
+  "risk": "FAIL",
+  "reason": "Voice check flagged synthetic speech indicators. This score is evidence, not proof, so treat the request as high risk. Next step: do not approve yet and call back on a number you already know."
+}
